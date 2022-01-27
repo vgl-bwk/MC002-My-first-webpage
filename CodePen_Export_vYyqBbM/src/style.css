@@ -1,0 +1,175 @@
+<style>
+#zz-logo {
+  margin-top: 120px;
+  margin-left: 40%;
+  float: left;
+}
+#title{
+  float: right;
+  text-align: right;
+  font-size: 38px;
+}
+#subtitle{
+  font-family: sans-serif;
+  font-size: 24px;
+}
+#index {
+  font-family: sans-serif;
+  font-size: 22px;
+}
+#zeit{
+  color: rgb(40,40,150);
+}
+#zeig{
+  color: rgb(150,60,60)
+}
+#top-banner{
+align: auto;
+background-color: black;
+color: white;
+padding-top: 30px;
+padding-left: 30px;
+padding-right:30px;
+overflow: hidden;
+ 
+}
+
+#dali-memory{
+  float: left;
+  margin-top: 30px;
+  margin-left: 20px;
+  height: auto;
+}
+#intro-title{
+  font-size: 22px;
+  text-align: right;
+}
+#tldr{
+  background-color: rgb(220,220,220);
+  width: 40%;
+  height: 360px;
+  margin-top: 40px;
+  margin-left: 60%;
+  margin-bottom: 20px;
+  font-size: 16px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 16px;
+}
+#wisecrack{
+  text-align: right;
+  font-family: cursive;
+  font-size: 14px;
+  padding-top: 25px;
+  margin-left: 60%;
+}
+#intro{
+  flex
+  float: right;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+
+#aims-heading{
+  margin-top: 150px;
+  margin-bottom: 30px;
+  background-color: white;
+  color: rgb(40,40,150);
+  padding: 6px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 28px
+}
+#aims-info{
+  margin-top: 35px;
+  margin: auto;
+  width: 50%;
+}
+#goals-list{
+  margin-top: 40px;
+  margin: auto;
+  border: 2px solid white;
+}
+#aims{
+  margin: auto;
+  width: 800px;
+  background-color: rgb(40,40,150);
+  padding: 50px;
+    color: white;
+}
+#schedule-heading{
+  margin-top: 80px;
+  margin-bottom: 30px;
+  background-color: white;
+  color: rgb(150,40,40);
+  padding: 6px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 28px
+}
+#schedule{
+  margin: auto;
+  background-color: rgb(150,40,40);
+  padding: 50px;
+  color: white;
+  width:800px;
+}
+#schedule-info{  
+  margin-top: 35px;
+  margin: auto;
+  width: 80%;
+  clear: both;
+}
+.main-goal{
+  background-color:white;
+  color: rgb(40,40,150);
+  padding: 3px;
+}
+table{
+  width: 40%;
+  margin-top: 35px;
+  margin: auto;
+  border: 1px double white;
+}
+thead{
+  background-color: white;
+  color: rgb(150,40,40);
+  border: 1px inset white;
+  padding: 3px;
+}
+td{
+  padding:6px;
+  border: 1px solid white
+}
+p{
+  font-family: sans-serif;
+}
+li{
+  padding:3px;
+  font-family: monospace;
+  font-size: 16px;
+}
+ol{
+  width: 100%;
+  margin: auto;
+  padding:2px;
+  line-height: 1.25em
+}
+ul{
+  width: 50%;
+  line-height: 1.5em;
+  margin-left: 5%;
+} 
+#contact{
+  margin-top: 100px;
+  margin-bottom: 30px;
+  background-color: white;
+  color: rgb(40,40,150);
+  padding: 6px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 28px}
+#links{
+  margin: auto;
+}
+</style>
